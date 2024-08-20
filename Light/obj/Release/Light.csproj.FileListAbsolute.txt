@@ -1,0 +1,22 @@
+C:\Users\USER\Desktop\Project\Light\Light\bin\Release\Light.exe.config
+C:\Users\USER\Desktop\Project\Light\Light\bin\Release\Light.exe
+C:\Users\USER\Desktop\Project\Light\Light\bin\Release\Light.pdb
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.fMain.resources
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.fMonitor.resources
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.Properties.Resources.resources
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.exe
+C:\Users\USER\Desktop\Project\Light\Light\obj\Release\Light.pdb
+C:\Users\USER\Desktop\Public\My Source\Light\Light\bin\Release\Light.exe.config
+C:\Users\USER\Desktop\Public\My Source\Light\Light\bin\Release\Light.exe
+C:\Users\USER\Desktop\Public\My Source\Light\Light\bin\Release\Light.pdb
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.fMain.resources
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.fMonitor.resources
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.Properties.Resources.resources
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.exe
+C:\Users\USER\Desktop\Public\My Source\Light\Light\obj\Release\Light.pdb
